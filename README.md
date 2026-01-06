@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @TcassasT
 - 👀 I’m interested in Frontend & Backend (JS), Java and SQL/NoSQL.
-- 👺 How to reach me: tcassas@archt.com.ar
+- 👺 How to reach me: tomascassas@gmail.com
